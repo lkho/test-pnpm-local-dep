@@ -1,0 +1,14 @@
+lockfileVersion: 5.3
+
+specifiers:
+  addition: ^0.0.2
+
+dependencies:
+  addition: 0.0.2
+
+packages:
+
+  /addition/0.0.2:
+    resolution: {integrity: sha1-Hqdtfjg/4XaB4OPRH+DdlaI0Lzc=}
+    hasBin: true
+    dev: false
